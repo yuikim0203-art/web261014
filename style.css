@@ -5,6 +5,7 @@ body {
     min-height: 100vh; box-sizing: border-box; 
     margin: 0; padding: 40px; 
     font-family: "Black+Han+Sans", sans-serif; }
+    h1, footer { color: #fff; }
 
 .card { 
     width: 260px; border-radius: 12px; 
@@ -30,4 +31,3 @@ body {
     transform: translateY(-8px); 
     box-shadow: 0 12px 32px rgba(255,193,7,0.6); }
 
-h1, footer { color: #fff; }
